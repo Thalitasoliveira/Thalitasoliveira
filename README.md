@@ -1,4 +1,4 @@
-<h1>Hii, I'm Thalita Oliveira, but you can call me Tata. How are you doing? </h1>
+<h1>Hi, I'm Thalita Oliveira, but you can call me Tata. How are you doing? </h1>
 <img align='right' src="https://pa1.narvii.com/6805/323265590e4804266d923e2976377612c69c8546_hq.gif" width="230">
 
 
