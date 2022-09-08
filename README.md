@@ -3,7 +3,7 @@
 
 
 <p><em>I'm a Software Engineering Student with an emphasis in Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
-</br><h3> I work with the following positions: Full Stack Jr Developer, Front End Jr, Software Engineering Jr <a href= width="40"></h3> 
+</br><h3> I work with the following positions: Full Stack Jr Developer, Front End Jr, Software Engineer Jr <a href= width="40"></h3> 
 </em></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thalitaosb/) 
