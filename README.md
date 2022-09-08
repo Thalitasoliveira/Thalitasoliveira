@@ -18,9 +18,9 @@
 </div>
 
 Const Thalita Oliveira = {
-  - Code: [Javascript,HTML, CSS, Python, Java,Dart,SQL,C#],
-  - Framework:[Bootstrap,Flutter,Angular], 
-  - Basic Knowledge in:: [MySQL,Microsoft SQL Server,Qlik Sense®,Power BI,Google Workspace, LGPD,information security],
+  - Code: [Javascript,HTML, CSS, Python, Java,Dart,SQL,C#];
+  - Framework:[Bootstrap,Flutter,Angular]; 
+  - Basic Knowledge in: [MySQL,Microsoft SQL Server,Qlik Sense®,Power BI,Google Workspace, LGPD,information security];
   - Languages: ["Basic English,Spanish and French"];
   
   <h3> Plus </h3>
