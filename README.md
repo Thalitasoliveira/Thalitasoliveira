@@ -27,7 +27,7 @@ Const Thalita Oliveira = {
   
 -💻 I worked for 2.5 years as Technical Support with an emphasis on (Help - Desk, Infrastructure, Data, LGPD, Information Security and Systems Development).
 
--👩🏼‍🎓I participated in the first group of the Empower Code program of Zenvia-Alura companies. 
+-🖥️I participated in the first group of the Empower Code program of Zenvia-Alura companies. 
 Aiming to develop or initiate talented women in the field of technology
 
 -👏🏼I'm Former DIO Campus Expert Ambassador.Link https://dio.me/sign-up?ref=WO7X4AX8N5.  
