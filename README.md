@@ -2,7 +2,7 @@
 <img align='right' src="https://pa1.narvii.com/6805/323265590e4804266d923e2976377612c69c8546_hq.gif" width="230">
 
 
-<p><em>I'm a Software Engineering Student with an Emphasis in Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
+<p><em>I'm a Software Engineering Student with an emphasis in Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
 </br><h3> I work with the following positions: Full Stack Jr Developer, Front End Jr, Software Engineering Jr <a href= width="40"></h3> 
 </em></p>
 
