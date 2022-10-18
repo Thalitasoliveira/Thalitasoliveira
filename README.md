@@ -1,13 +1,13 @@
-<h1>Hi, I'm Thalita Oliveira, but you can call me Tata. How are you doing? </h1>
+<h1>Hi, I'm Thalita Oliveira, but you can call me Taty. How are you doing? </h1>
 <img align='right' src="https://pa1.narvii.com/6805/323265590e4804266d923e2976377612c69c8546_hq.gif" width="230">
 
 
-<p><em>I'm a Software Engineering Student with an emphasis in Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
-</br><h3> I work with the following positions: Full - Stack Jr, Front - End Jr, Software Engineer Jr <a href= width="40"></h3> 
+<p><em> I'm a Software Engineering student with an emphasis on Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
+</br><h3> I work with the following positions: Full - Stack Jr, Front - End Jr, Software Engineer Jr.In my spare time I work as a Freelancer with performance focused on IT management (Consulting). <a href= width="40"></h3> 
 </em></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thalitaosb/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.secure.instagram.com/thalitasob/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tatytech/) 
 
 <div align="center">
 
@@ -18,19 +18,21 @@
 </div>
 
 Const Thalita Oliveira = {
-  - Code: ["Javascript,HTML, CSS, Python, Java,Dart,SQL,C#"];
-  - Framework:["Bootstrap,Flutter,Angular"]; 
-  - Basic Knowledge in: ["MySQL,Microsoft SQL Server,Qlik Sense®,Power BI,Google Workspace, LGPD,information security"];
-  - Languages: ["Basic English,Spanish and French"];
+  - Code: : ["Javascript,HTML, CSS, TypeScript, R, Python,Dart,SQL,C# beginner in Java "];
+  - Framework:["Bootstrap,Flutter,Angular,Laravel"]; 
+  - Basic Knowledge in: ["MySQL, Microsoft SQL Server, Qlik Sense®,Power BI, Google Workspace, LGPD, Segurança da informação, Node.Js"];
+}
+
+
   
   <h3> Plus </h3>
   
--💻 I worked for 2.5 years as Technical Support with an emphasis on (Help - Desk, Infrastructure, Data, LGPD, Information Security and Systems Development).
+-💻 I worked for 2.5 years as Technical Support with emphasis on (Help - Desk, Infrastructure, Data, LGPD, Information Security, Systems Development, Maintenance of Machines and Systems, training with emphasis on information security to the end user).
 
 -🖥️I participated in the first group of the Empower Code program of Zenvia-Alura companies. 
 Aiming to develop or initiate talented women in the field of technology
 
--👏🏼I'm Former DIO Campus Expert Ambassador.Link https://dio.me/sign-up?ref=WO7X4AX8N5.  
+-👏🏼I'm Former DIO Campus Expert Ambassador.Online platform for free IT courses Link :https://dio.me/sign-up?ref=WO7X4AX8N5.  
 
 -👩🏻‍🦰 Profile complement: I love to learn, teach what I know in addition to developing my soft and hard skills, I have business sense and I love solving and bringing solutions to problems.
 
