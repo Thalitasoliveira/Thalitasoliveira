@@ -20,7 +20,7 @@
 Const Thalita Oliveira = {
   - Code: : ["Javascript,HTML, CSS, TypeScript, R, Python,Dart,SQL,C# beginner in Java "];
   - Framework:["Bootstrap,Flutter,Angular,Laravel"]; 
-  - Basic Knowledge in: ["MySQL, Microsoft SQL Server, Qlik Sense®,Power BI, Google Workspace, LGPD, Segurança da informação, Node.Js"];
+  - Basic Knowledge in: ["MySQL, Microsoft SQL Server, Qlik Sense®,Power BI, Google Workspace, LGPD, Segurança da informação, Node.Js, Firebase"];
 }
 
 
