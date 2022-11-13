@@ -3,7 +3,7 @@
 
 
 <p><em> I'm a Software Engineering student with an emphasis on Data Science at <a href="https://portal.uninter.com/">Centro Universitário Internacional-Uninter</a>
-</br><h3> I work with the following positions: Full - Stack Jr, Front - End Jr, Software Engineer Jr.In my spare time I am a Freelancer with a focus on IT management (Consulting). <a href= width="40"></h3> 
+</br><h3> I work in the following position: Full - Stack Jr. In my spare time I am a Freelancer with a focus on IT management (Consulting). <a href= width="40"></h3> 
 </em></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thalitaosb/) 
@@ -27,14 +27,10 @@ Const Thalita Oliveira = {
   
   <h3> Plus </h3>
   
--💻 I worked for 2.5 years as Technical Support with emphasis on (Help - Desk, Infrastructure, Data, LGPD, Information Security, Systems Development, Maintenance of Machines and Systems, training with emphasis on information security to the end user).
+💻 Some areas I have experience with:
+Strategy | Projects| Development | LGPD| Information Security Training | Technical Support | Help Desk | Data applied to agribusiness | Infrastructure.
 
--🖥️I participated in the first group of the Empower Code program of Zenvia-Alura companies. 
-Aiming to develop or initiate talented women in the field of technology
-
--👏🏼I'm Former DIO Campus Expert Ambassador.Online platform for free IT courses Link :https://dio.me/sign-up?ref=WO7X4AX8N5.  
-
--👩🏻‍🦰 Profile complement: I love to learn, teach what I know in addition to developing my soft and hard skills, I have business sense and I love solving and bringing solutions to problems.
+-👱🏻‍♀️ Profile complement: I love to learn, teach what I know in addition to developing my soft and hard skills, I have business sense and I love solving and bringing solutions to problems.
 
 
 <em><b>I love connecting with different people and learning something new</b>,
