@@ -1,7 +1,7 @@
 <h1>Hi, I'm Thalita Oliveira, but you can call me Taty. How are you doing? </h1>
 <img align='right' src="https://pa1.narvii.com/6805/323265590e4804266d923e2976377612c69c8546_hq.gif" width="230">
 
-<p>Welcome to my GitHub, my profile is new! I hope you have patience so that I can finish according to the new projects! I'm a Jr Data Analyst and sometimes I work with development focused on front end. I'm a Software Engineering student with an emphasis on Data Science at Uninter - Centro Universitário Internacional.</p>
+<p>Welcome to my GitHub, my profile is new! I hope you have patience so that I can finish according to the new projects! I'm a Jr Data Analyst and sometimes I work with development focused on front end. I'm a Software Engineering Student with an emphasis on Data Science at Uninter - Centro Universitário Internacional.</p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thalitaosb/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tatytech/) 
